@@ -38,8 +38,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## GitHub stats:
-[![milinagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=milinagi&theme=dark&show_icons=true)](https://github.com/milinagi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark_height=33)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milinagi&theme=vue-dark" alt="milinagi github stats" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=milinagi&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
 
 ### <p  align="center">You can find me 🌍:</p>
 
