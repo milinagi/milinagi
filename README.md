@@ -24,7 +24,7 @@ const Jorge = {
   <a href="https://www.instagram.com/_jorgerc_/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/milinagi"><img src="https://img.shields.io/badge/-Github-5865F2?style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-;
+
 
 
 [![milinagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=milinagi&theme=dark&show_icons=true)](https://github.com/milinagi/github-readme-stats)
