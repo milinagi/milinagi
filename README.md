@@ -12,9 +12,12 @@ You can find me 🌍:
 - [Linkedin](https://www.linkedin.com/in/jorgerc95/)
 - [Github](https://github.com/milinagi)
 - [Instagram](https://www.instagram.com/_jorgerc_/)
+
+[![milinagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=milinagi)](https://github.com/milinagi/github-readme-stats)
+
 <!--
 **milinagi/milinagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![milinagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=milinagi)](https://github.com/milinagi/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
