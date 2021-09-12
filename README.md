@@ -39,7 +39,7 @@
 
 ## GitHub stats:
 [![milinagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=milinagi&theme=dark&show_icons=true)](https://github.com/milinagi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milinagi&layout=compact&theme=buefy&hide_border=true)](https://github.com/milinagi/github-readme-stats)
+<a href="https://github.com/milinagi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milinagi&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
 
