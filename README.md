@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+```js
+const Jorge = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker]
+```
+
 <!--
 **milinagi/milinagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
