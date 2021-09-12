@@ -38,8 +38,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## GitHub stats:
+<p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=milinagi&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
-
+</p>
 
 
 ### <p  align="center">You can find me 🌍:</p>
