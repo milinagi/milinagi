@@ -1,6 +1,14 @@
-### Hi, I'm Jorge 👋👨‍💻
 ![1626879417682](https://user-images.githubusercontent.com/47178488/132985845-66db8ebf-2a02-4b52-915c-39ce9a79a97a.jpg)
+### Hi, I'm Jorge 👋👨‍💻
+## Hi there, I'm Alexis Guanche
 
+### Web Applications Developer, Movies and Strategy Games fan
+
+- 🌱 I’m currently learning about everything 🤣
+- 🌴 I'm from Canary Islands, Spain
+- ⚡ About me: I love to read and walk (more than 17000 km in the last 4 years)
+
+---
 ```js
 const Jorge = {
   tecnologies: 'web',
