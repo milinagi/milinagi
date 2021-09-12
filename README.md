@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![1626879417682](https://user-images.githubusercontent.com/47178488/132985845-66db8ebf-2a02-4b52-915c-39ce9a79a97a.jpg)
 ![jobbanner_front-end_developer](https://user-images.githubusercontent.com/47178488/132985777-b2293540-c166-4ea4-b6d4-16573e84248f.jpg)
 
 ```js
