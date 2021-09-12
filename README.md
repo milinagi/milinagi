@@ -1,14 +1,17 @@
-### Hi there 👋
+### Hi, I'm Jorge 👋👨‍💻
 ![1626879417682](https://user-images.githubusercontent.com/47178488/132985845-66db8ebf-2a02-4b52-915c-39ce9a79a97a.jpg)
-![jobbanner_front-end_developer](https://user-images.githubusercontent.com/47178488/132985777-b2293540-c166-4ea4-b6d4-16573e84248f.jpg)
 
 ```js
 const Jorge = {
-  pronouns: "he" | "him",
+  tecnologies: 'web',
+  passions: ['performance web', 'web developer']
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker]
 ```
-
+You can find me 🌍:
+- [Linkedin](https://www.linkedin.com/in/jorgerc95/)
+- [Github](https://github.com/milinagi)
+- [Instagram](https://www.instagram.com/_jorgerc_/)
 <!--
 **milinagi/milinagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
