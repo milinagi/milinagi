@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Front-end_Github](https://user-images.githubusercontent.com/47178488/132985702-f4a755a6-5667-4866-a01f-611a95f85df3.jpg)
+![jobbanner_front-end_developer](https://user-images.githubusercontent.com/47178488/132985777-b2293540-c166-4ea4-b6d4-16573e84248f.jpg)
 
 ```js
 const Jorge = {
