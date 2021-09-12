@@ -20,6 +20,7 @@ const Jorge = {
 - [Linkedin](https://www.linkedin.com/in/jorgerc95/)
 - [Github](https://github.com/milinagi)
 - [Instagram](https://www.instagram.com/_jorgerc_/)
+-  <a target="_blank"href="https://www.linkedin.com/in/alexis-guanche/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-              badge&logo=linkedin&logoColor=white" /></a>
 
 [![milinagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=milinagi&theme=dark&show_icons=true)](https://github.com/milinagi/github-readme-stats)
 
