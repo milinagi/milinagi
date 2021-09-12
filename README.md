@@ -38,11 +38,11 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## GitHub stats:
-<p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=milinagi&count_private=true&show_icons=true&theme=vue-dark&line" />
-</p>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=milinagi&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adgomez94&theme=vue-dark" alt="Adgomez94 github stats" />
 
+---
 ### <p  align="center">You can find me 🌍:</p>
 
 <p align="center">
