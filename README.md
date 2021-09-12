@@ -22,7 +22,7 @@ const Jorge = {
   <a target="_blank"href="https://www.linkedin.com/in/jorgerc95/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jorgercdeveloper@gmail.com?subject=Hello%20Jorge,%20I%20contact%20you%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_jorgerc_/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/milinagi"><img src="https://img.shields.io/badge/-Github-5865F2?style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/milinagi"><img src="https://img.shields.io/badge/-Github-5865F2?style=for-the-badge&logo=Github&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 ;
 
