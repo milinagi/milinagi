@@ -16,7 +16,7 @@ const Jorge = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker]
 ```
-You can find me 🌍:
+## You can find me 🌍:
 - [Linkedin](https://www.linkedin.com/in/jorgerc95/)
 - [Github](https://github.com/milinagi)
 - [Instagram](https://www.instagram.com/_jorgerc_/)
