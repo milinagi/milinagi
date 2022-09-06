@@ -40,7 +40,7 @@
 ## GitHub stats:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=milinagi&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adgomez94&theme=vue-dark" alt="Adgomez94 github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milinagi&theme=vue-dark" alt="Jorge RC github stats" />
 
 ---
 ### <p  align="center">You can find me 🌍:</p>
